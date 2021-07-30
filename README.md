@@ -15,13 +15,6 @@
 
 ## 🙋‍♂️ About Me
 
-<div class="greeting-image2-div" style="float:right">
-
-<p align="right">
-<a href="#"><img  style="width: 500px; max-width: 100%; height: 100%;text-align: center;" src="https://i.imgur.com/iXuL1HG.png" /></a>
-</div>
-</p>
-
 - 🔭 I’m currently working on **Initvent Consulting Services ltd. as a Software Engineer as well as Team Lead**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Block Chain**
@@ -32,9 +25,11 @@
 
 - 📫 How to reach me **sakibul95bubt@gmail.com**
 
-- ⚡ Fun fact **I am meme creator 😅**
+- ⚡ Fun fact **I am meme creator and a gamer 😅🎮**
 
-
+<p align="center">
+<a href="#"><img  style="width: 500px; max-width: 100%; height: 100%;text-align: center;" src="https://i.imgur.com/iXuL1HG.png" /></a>
+</p>
 
 ## 🚀 Languages and Tools:
 
