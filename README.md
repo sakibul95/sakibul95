@@ -76,7 +76,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/sakibul95/github-readme-activity-graph"><img alt="Sakibul Islam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakibul95&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/sakibul95/github-readme-activity-graph"><img alt="Sakibul Islam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sakibul95&theme=react-dark&bg_color=20232a&hide_border=true" /></a>
 
 <br/>
 <br/>
