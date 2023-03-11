@@ -15,9 +15,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Initvent Consulting Services ltd. as a Software Engineer as well as Team Lead**
+- 🔭 I’m currently working on **Vu Mobiles ltd. as a Software Engineer as well as Team Lead**
 
-- 🌱 I’m currently learning **Artificial Intelligence & Block Chain**
+- 🌱 I’m currently learning **Artificial Intelligence, Block Chain & Micro services**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
   
