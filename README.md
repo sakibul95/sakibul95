@@ -15,17 +15,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Vu Mobiles ltd. as a Software Engineer as well as Team Lead**
+- 🔭 I’m currently working on **Link3 Technologies Ltd. as a Software Engineer as well as Team Lead**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Block Chain & Micro services**
+- 🌱 I’m currently learning **Artificial Intelligence, Block Chain & Generative AI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
   
-- 💬 Ask me about **C#, Dot net Core, Python, SQL Server, MongoDb, Angular**
+- 💬 Ask me about **C#, Dot net Core, Python, SQL Server, MySql, MongoDb, React**
 
 - 📫 How to reach me **sakibul95bubt@gmail.com**
 
-- ⚡ Fun fact **I am meme creator and a gamer 😅🎮**
+- ⚡ Fun fact **I am a meme creator and a gamer 😅🎮**
 
 <p align="center">
 <a href="#"><img  style="width: 500px; max-width: 100%; height: 100%;text-align: center;" src="https://i.imgur.com/iXuL1HG.png" /></a>
