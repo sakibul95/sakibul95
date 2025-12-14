@@ -6,7 +6,7 @@
   ### Passionate Software Engineer & Team Lead
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=060A0C&background=00000000&center=true&vCenter=true&width=435&lines=Good+Problem+Solver;Tech+Enthusiast;Software+Engineer+%26+Team+Lead;DotNet+%26+Python+Developer" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=fffdf8&background=00000000&center=true&vCenter=true&width=435&lines=Good+Problem+Solver;Tech+Enthusiast;Software+Engineer+%26+Team+Lead;DotNet+%26+Java+%26+Python+Developer" alt="Typing SVG">
   </p>
   
 </div>
@@ -15,11 +15,11 @@
 
 ## 🙋‍♂️ About Me
 
-* 🔭 I currently work at **Link3 Technologies Ltd. as a Software Engineer & Team Lead.**
+* 🔭 I currently work at **B-Trac Solutions Ltd. as a Senior Software Engineer & Team Lead.**
 * 🌱 I'm currently diving deep into **Artificial Intelligence, Blockchain, & Generative AI.**
 * 👯 I'm looking to collaborate on **Open Source Projects** related to modern web technologies.
-* 💬 Ask me about **C#, .NET Core, Python, SQL Server, MongoDB, and React.**
-* 🧠 Fun fact: I am a **meme creator** and a **gamer** 😅🎮
+* 💬 Ask me about **C#, .NET Core, Java, Python, SQL Server, MongoDB, Postgres and Nextjs.**
+* 🧠 Fun fact: I am a **MEME Creator** and a **Gamer** 😅🎮
 * 📬 How to reach me: [sakibul95bubt@gmail.com](mailto:sakibul95bubt@gmail.com)
 
 ---
@@ -28,10 +28,10 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend & Core** | `C#`, `.NET Core`, `Python`, `Django`, `Node.js` |
-| **Frontend** | `React`, `Angular`, `JavaScript`, `TypeScript` |
-| **Databases** | `SQL Server`, `MySQL`, `Oracle`, `MongoDB` |
-| **DevOps & Tools** | `Docker`, `Azure`, `Git`, `Linux`, `C++` |
+| **Backend & Core** | `C#`, `.NET Core`, `Java`, `Springboot`, `Python`, `Django` |
+| **Frontend** | `React`, `Nextjs`, `Angular`, `JavaScript`, `TypeScript` |
+| **Databases** | `SQL Server`, `MySQL`, `Postgres`, `MongoDB`, `Redis` |
+| **DevOps & Tools** | `Docker`, `Azure`, `Git`, `Linux` |
 
 <br>
 
