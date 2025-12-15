@@ -51,9 +51,7 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-    <img src="https://www.github-profile-trophy.com/?username=sakibul95&theme=onedark&no-frame=true&no-bg=true&column=3" alt="Sakibul's GitHub Trophies" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibul95&theme=react-dark&hide_border=true&background=20232A&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sakibul95" alt="Basic GitHub Stats" />
 </div>
 
 ---
