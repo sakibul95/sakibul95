@@ -51,15 +51,9 @@
 ## 📈 My GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sakibul95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFFFFF&text_color=FFFFFF" alt="Sakibul's GitHub Stats" />
+    <img src="https://www.github-profile-trophy.com/?username=sakibul95&theme=onedark&no-frame=true&no-bg=true&column=3" alt="Sakibul's GitHub Trophies" />
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakibul95&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FFFFFF&text_color=FFFFFF" alt="Sakibul's Top Languages" />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=sakibul95&theme=onedark&no-frame=true&no-bg=true&column=3" alt="Sakibul's GitHub Trophies" />
-    
-    <img src="https://activity-graph.herokuapp.com/graph?username=sakibul95&theme=react-dark&bg_color=20232A&hide_border=true&color=58A6FF" alt="Sakibul's Activity Graph" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakibul95&theme=react-dark&hide_border=true&background=20232A&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
