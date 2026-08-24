@@ -169,7 +169,7 @@ rather than repos. Full case studies live on my **[portfolio](https://sakibul95.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:34d399,100:22d3ee&height=3&section=header" alt="" />
 
-## 📈 GitHub
+<!-- ## 📈 GitHub
 
 <p align="center">
   <img height="150" alt="Most used languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sakibul95&layout=compact&hide=html,css,scss,mdx&langs_count=6&hide_border=true&bg_color=0c0e12&title_color=34d399&text_color=a1a1aa" />
@@ -211,7 +211,7 @@ My contribution graph gets eaten daily by a GitHub Action. No commits, no game. 
   <img alt="Breakout on my contribution graph" src="https://raw.githubusercontent.com/sakibul95/sakibul95/output/breakout-contribution-graph.svg" />
 </picture>
 
-
+-->
 
 ## 🎯 Off the clock
 
